@@ -1,0 +1,84 @@
+/* ul{
+margin: 0px;
+padding: 0px;
+}
+ul li{
+list-style: none;
+height: 33.33vh;
+width: 100%;
+}
+#orange, #green, #white{
+    height: 100%;
+}
+#orange{
+    background-color: rgb(236, 177, 15);
+}
+#green{
+    background-color:green;
+}
+#white{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+#particles-js{
+    height: 100vh;
+    background-image: url(keep_calm___it_s_not_rocket_science__wallpaper_pac_by_fr31g31st-da9qvac.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+
+#a{
+    height: 100vh;
+    background-image: url(space_shuttle_rocket-wide.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+
+
+
+#b{
+    height: 100vh;
+    background-image: url(space_rocket_by_tomeqq-d356xi5.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+
+#c{
+    height: 100vh;
+    background-image: url(keep_calm___it_s_not_rocket_science__wallpaper_pac_by_fr31g31st-da9qvac.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+
+#d{
+    height: 100vh;
+    background-image: url(7038821-funny-space-planets.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+  
+#e{
+    height: 100vh;
+    background-image: url(https://s3.envato.com/files/160634409/_Toon-Rocket_v1_preview.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+  
